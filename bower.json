@@ -2,6 +2,10 @@
 	"name": "websqlwrapper",
 	"version": "0.0.1",
 	"homepage": "https://github.com/flexait/websqlwrapper",
+	"main": [
+		"websqlwrapper.js"
+	],
+	"ignore": [],
 	"authors": [
 		"Denilson Telaroli <ddts80@gmail.com>"
 	],
